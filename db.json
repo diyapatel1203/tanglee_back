@@ -1,0 +1,227 @@
+{
+  "product": [
+    {
+      "id": 1,
+      "img2": "https://tangleteezer.com/cdn/shop/files/TUD_0000s_0003s_0013_TUDF_FPinkDust1_450x.jpg?v=1706476070",
+      "img1": "https://tangleteezer.com/cdn/shop/files/TUD_0000s_0000s_0049_TUDMillenialPink3_450x.jpg?v=1718370682",
+      "title": "The Ultimate Detangler",
+      "price": "£14.00",
+      "image": "https://tangleteezer.com/cdn/shop/files/660x470_Millenial_Pink_Teeth_10ae49f6-b181-4440-8e25-25737e04d3a3.png?v=1707474715&width=800"
+    },
+    {
+      "id": 2,
+      "img1": "https://tangleteezer.com/cdn/shop/files/TUD_0000s_0000s_0049_TUDMillenialPink3_450x.jpg?v=1718370682",
+      "img2": "https://tangleteezer.com/cdn/shop/files/TUD_0000s_0000s_0050_TUDMillenialPink1.jpg?v=1718370682&width=550",
+      "title": "The Ultimate Detangler Fine & Fragile",
+      "price": "£14.00",
+      "image": "https://tangleteezer.com/cdn/shop/files/660x470_Millenial_Pink_Teeth_10ae49f6-b181-4440-8e25-25737e04d3a3.png?v=1707474715&width=800"
+    },
+    {
+      "id": 3,
+      "img2": "https://tangleteezer.com/cdn/shop/files/TUD_0000s_0003s_0007_TUDNCPurplePassion1_450x.jpg?v=1718985405",
+      "img1": "https://tangleteezer.com/cdn/shop/files/TUD_0000s_0001s_0008_TUDNCPurplePassion3_450x.jpg?v=1718985405",
+      "title": "The Ultimate Detangler Fine & Fragile",
+      "price": "£14.00",
+      "image": "https://tangleteezer.com/cdn/shop/files/Teeth_0000s_0001s_0000s_0002_Purple-Passion.png?v=1707474716&width=800"
+    },
+    {
+      "id": 4,
+      "img2": "https://tangleteezer.com/cdn/shop/files/WTC_0007s_0000_Lilac_WTD_HeroImage_450x.jpg?v=1718985480",
+      "img1": "https://tangleteezer.com/cdn/shop/files/WTC_0007s_0001_Lilac_WTD_Angle2_450x.jpg?v=1719823883",
+      "title": "Wide Tooth Comb",
+      "price": "£20.00",
+      "image": "https://tangleteezer.com/cdn/shop/files/Teeth_WTC.png?v=1707474713&width=800"
+    },
+    {
+      "id": 5,
+      "img2": "https://tangleteezer.com/cdn/shop/files/Original_0000s_0000s_0002s_0025_OriginalPinkFizz1_450x.jpg?v=1706469668",
+      "img1": "https://tangleteezer.com/cdn/shop/files/Original_0000s_0000s_0001s_0025_OriginalPinkFizz2_450x.jpg?v=1706469668",
+      "title": "The Original",
+      "price": "£14.00",
+      "image": "https://tangleteezer.com/cdn/shop/files/Teeth_0000s_0000s_0013_Pink-Fizz_949d3b59-d9a5-4c80-810c-3043e02b5d85.png?v=1707413070&width=800"
+    },
+    {
+      "id": 6,
+      "img2": "https://tangleteezer.com/cdn/shop/files/Original_0000s_0000s_0002s_0000_PlantBrush_OR_MarshmallowPink_HeroImage_450x.jpg?v=1706473754",
+      "img1": "https://tangleteezer.com/cdn/shop/files/Original_0000s_0000s_0001s_0001_PlantBrush_OR_MarshmallowPink_Angle3_450x.jpg?v=1706473754",
+      "title": "The Original Plant Brush",
+      "price": "£17.00"
+    },
+    {
+      "id": 7,
+      "img1": "https://tangleteezer.com/cdn/shop/files/Original_0000s_0000s_0001s_0007_OriginalF_FPinkDawn3_450x.jpg?v=1707839946",
+      "img2": "https://tangleteezer.com/cdn/shop/files/Original_0000s_0000s_0002s_0007_OriginalF_FPinkDawn1_450x.jpg?v=1707839946",
+      "title": "The Original Fine & Fragile",
+      "price": "£14.00",
+      "image": "https://tangleteezer.com/cdn/shop/files/Teeth_0000s_0000s_0003_Pink-Dawn.png?v=1707474715&width=800"
+    },
+    {
+      "id": 8,
+      "img1": "https://tangleteezer.com/cdn/shop/files/Original_0000s_0000s_0001s_0013_OriginalT_CSalsaRed2_450x.jpg?v=1707840010",
+      "img2": "https://tangleteezer.com/cdn/shop/files/Original_0000s_0000s_0002s_0013_OriginalT_CSalsaRed1_450x.jpg?v=1707840010",
+      "title": "The Original Thick & Curly",
+      "price": "£14.00",
+      "image": "https://tangleteezer.com/cdn/shop/files/Teeth__0000s_0000s_0003_Salsa-Red.png?v=1707474715&width=800"
+    },
+    {
+      "id": 9,
+      "img2": "https://tangleteezer.com/cdn/shop/files/Originalmini_0001s_0004_RainbowtheUnicorn1_450x.jpg?v=1706281537",
+      "img1": "https://tangleteezer.com/cdn/shop/files/Originalmini_0000s_0001s_0003_RainbowtheUnicorn2_450x.jpg?v=1706281537",
+      "title": "The Original Mini",
+      "price": "£15.50",
+      "image": "https://tangleteezer.com/cdn/shop/files/Teeth-_0000s_0000s_0005_Rainbow-the-Unicorn.png?v=1707474715&width=800"
+    },
+    {
+      "id": 10,
+      "img2": "https://tangleteezer.com/cdn/shop/files/Compactstyler_0000s_0003s_0018_HoloHero_450x.jpg?v=1706543074",
+      "img1": "https://tangleteezer.com/cdn/shop/files/PDPCarouselRotationsTemplate_Compactstyler_450x.png?v=1706543074",
+      "title": "Compact Styler",
+      "price": "£16.00",
+      "image": "https://tangleteezer.com/cdn/shop/files/Teeth_0000s_0000s_0018_Holo-Hero.png?v=1707474715&width=800"
+    },
+    {
+      "id": 11,
+      "img2": "https://tangleteezer.com/cdn/shop/files/Smoothingtool_0009_Large_Brush_Rotation_2_450x.jpg?v=1706199248",
+      "img1": "https://tangleteezer.com/cdn/shop/files/Smoothingtool_0008_Large_Brush_Rotation_1_450x.jpg?v=1706478397",
+      "title": "Smoothing Tool",
+      "price": "£29.99",
+      "image": "https://tangleteezer.com/cdn/shop/files/Teeth_0000s_0001s_0000_Layer-41.png?v=1707474715&width=800"
+    },
+    {
+      "id": 12,
+      "img2": "https://tangleteezer.com/cdn/shop/files/Smoothingtool_0001_Round_Styling_Brush_Large_front_450x.jpg?v=1706481362",
+      "img1": "https://tangleteezer.com/cdn/shop/files/Lifestyle_0018s_0001_Round-Tool-Large_450x.png?v=1706481362",
+      "title": "Round Tool",
+      "price": "£29.99",
+      "image": "https://tangleteezer.com/cdn/shop/files/Teeth_Round_Styling_Brush_Large_7d4794d1-c28d-4fe5-b767-83b05592d1d6.png?v=1707474716&width=800"
+    },
+    {
+      "id": 13,
+      "img1": "https://tangleteezer.com/cdn/shop/files/PDPCarouselRotationsTemplate_TUVH_0000s_0002s_0000_EDG_MillennialPink_8_450x.jpg?v=1709916120",
+      "img2": "https://tangleteezer.com/cdn/shop/files/TUVH_0000s_0000s_0005_EDG_MillennialPink_5_450x.jpg?v=1709916120",
+      "title": "The Ultimate Blow-Dry",
+      "price": "£16.00",
+      "image": "https://tangleteezer.com/cdn/shop/files/Teeth_0001s_0000s_0001_Tickled-Pink.png?v=1707474715&width=800"
+    },
+    {
+      "id": 14,
+      "img1": "https://tangleteezer.com/cdn/shop/files/TUS_0000s_0002s_0004_MillennialPink_TUS_Angle7_450x.jpg?v=1706112870",
+      "img2": "https://tangleteezer.com/cdn/shop/files/TUS_0000s_0000s_0004_MillennialPink_TUS_Angle6_450x.jpg?v=1713530340",
+      "title": "The Ultimate Styler",
+      "price": "£16.00",
+      "image": "https://tangleteezer.com/cdn/shop/files/Teeth_0000s_0000s_0000_Millenial-Pink.png?v=1707474715&width=800"
+    },
+    {
+      "id": 15,
+      "img2": "https://tangleteezer.com/cdn/shop/files/Teaser_0006s_0005_PinkEmbrace_7_450x.jpg?v=1713530390",
+      "img1": "https://tangleteezer.com/cdn/shop/files/Teaser_0006s_0004_PinkEmbrace_1_450x.jpg?v=1713530390",
+      "title": "The Ultimate Volumizer",
+      "price": "£23.00",
+      "image": "https://tangleteezer.com/cdn/shop/files/Teeth_0000s_0000s_0000_Pink-Embrace.png?v=1707474715&width=800"
+    },
+    {
+      "id": 16,
+      "img2": "https://tangleteezer.com/cdn/shop/files/Pick2_450x.jpg?v=1706114243",
+      "img1": "https://tangleteezer.com/cdn/shop/files/Pick1_450x.jpg?v=1706114243",
+      "title": "Hair Pick",
+      "price": "£21.00",
+      "image": "https://tangleteezer.com/cdn/shop/files/660x470_Millenial_Pink_Teeth_10ae49f6-b181-4440-8e25-25737e04d3a3.png?v=1707474715&width=800"
+    },
+    {
+      "id": 17,
+      "img1": "https://tangleteezer.com/cdn/shop/files/Scalp_0000s_0002s_0001_HeroImage_SR_PrettyPink_450x.jpg?v=1706114517",
+      "img2": "https://tangleteezer.com/cdn/shop/files/Scalp_0000s_0000s_0003_PrettyPink.jpg?v=1706114517&width=550",
+      "title": "The Scalp Exfoliator & Massager",
+      "price": "£19.00",
+      "image": "https://tangleteezer.com/cdn/shop/files/660x470_Millenial_Pink_Teeth_10ae49f6-b181-4440-8e25-25737e04d3a3.png?v=1707474715&width=800"
+    },
+    {
+      "id": 18,
+      "img2": "https://tangleteezer.com/cdn/shop/files/DetanglingSpray_0000s_0002s_0000_KIDS_DetanglingSpray_Front_450x.jpg?v=1707848178",
+      "img1": "https://tangleteezer.com/cdn/shop/files/DetanglingSpray_0000s_0002s_0001_KIDS_DetanglingSpray_Back_450x.jpg?v=1707848179",
+      "title": "Everyday Detangling Spray Kids",
+      "price": "£16.00",
+      "image": "https://tangleteezer.com/cdn/shop/files/660x470_Millenial_Pink_Teeth_10ae49f6-b181-4440-8e25-25737e04d3a3.png?v=1707474715&width=800"
+    },
+    {
+      "id": 19,
+      "img2": "https://tangleteezer.com/cdn/shop/files/DetanglingSpray_0000s_0001s_0001_Thick_Curly_DetanglingCreamSpray_Front_450x.jpg?v=1707850202",
+      "img1": "https://tangleteezer.com/cdn/shop/files/DetanglingSpray_0000s_0001s_0000_ThickCurlyDetanglingSpray_Back_450x.jpg?v=1707850202",
+      "title": "Everyday Detangling Spray Shea Butter",
+      "price": "£18.00",
+      "image": "https://tangleteezer.com/cdn/shop/files/660x470_Millenial_Pink_Teeth_10ae49f6-b181-4440-8e25-25737e04d3a3.png?v=1707474715&width=800"
+    },
+    {
+      "id": 20,
+      "img2": "https://tangleteezer.com/cdn/shop/files/DetanglingSpray_0000s_0000s_0000_FineMedium_DetangingSpray_Front_450x.jpg?v=1707849775",
+      "img1": "https://tangleteezer.com/cdn/shop/files/DetanglingSpray_0000s_0000s_0001_FineMedium_DetangingSpray_Back_450x.jpg?v=1707849774",
+      "title": "Everyday Detangling Spray Wheat Protein",
+      "price": "£28.00",
+      "image": "https://tangleteezer.com/cdn/shop/files/660x470_Millenial_Pink_Teeth_10ae49f6-b181-4440-8e25-25737e04d3a3.png?v=1707474715&width=800"
+    },
+    {
+      "id": 21,
+      "img2": "https://tangleteezer.com/cdn/shop/files/Spraybottle_0001s_0000_FineMistSprayBottle_Pink_1_450x.jpg?v=1706198818",
+      "img1": "https://tangleteezer.com/cdn/shop/files/Spraybottle_0001s_0001_FineMistSprayBottle_Pink_2Frame_450x.jpg?v=1706198817",
+      "title": "Fine Mist Spray Bottle",
+      "price": "£22.00",
+      "image": "https://tangleteezer.com/cdn/shop/files/660x470_Millenial_Pink_Teeth_10ae49f6-b181-4440-8e25-25737e04d3a3.png?v=1707474715&width=800"
+    },
+    {
+      "id": 22,
+      "img2": "https://tangleteezer.com/cdn/shop/files/Pet_0003s_0002s_0002_Detanglingyellowpink_450x.jpg?v=1706285697",
+      "img1": "https://tangleteezer.com/cdn/shop/files/Pet_0003s_0000s_0000_PinkYellow_450x.jpg?v=1706285697",
+      "title": "Detangling Dog Grooming Brush",
+      "price": "£33.00",
+      "image": "https://tangleteezer.com/cdn/shop/files/660x470_Millenial_Pink_Teeth_10ae49f6-b181-4440-8e25-25737e04d3a3.png?v=1707474715&width=800"
+    },
+    {
+      "id": 23,
+      "img2": "https://tangleteezer.com/cdn/shop/files/Pet_0003s_0002s_0003_Desheddingpurple_450x.jpg?v=1706285296",
+      "img1": "https://tangleteezer.com/cdn/shop/files/Pet_0003s_0000s_0003_PurpleandGreyPetStyler_7_450x.jpg?v=1706285297",
+      "title": "De-shedding Dog Grooming Brush",
+      "price": "£23.00",
+      "image": "https://tangleteezer.com/cdn/shop/files/660x470_Millenial_Pink_Teeth_10ae49f6-b181-4440-8e25-25737e04d3a3.png?v=1707474715&width=800"
+    },
+    {
+      "id": 24,
+      "img2": "https://tangleteezer.com/cdn/shop/files/Pet_0001s_0001_FrontLeft_450x.jpg?v=1706285935",
+      "img1": "https://tangleteezer.com/cdn/shop/files/Pet_0001s_0000_Puppy_Green_7_450x.jpg?v=1706285935",
+      "title": "Puppy Brush",
+      "price": "£20.00",
+      "image": "https://tangleteezer.com/cdn/shop/files/660x470_Millenial_Pink_Teeth_10ae49f6-b181-4440-8e25-25737e04d3a3.png?v=1707474715&width=800"
+    },
+    {
+      "id": 25,
+      "img2": "https://tangleteezer.com/cdn/shop/files/Pet_0000s_0002_CatGroomingBrush_Angle3_450x.jpg?v=1706285136",
+      "img1": "https://tangleteezer.com/cdn/shop/files/Pet_0000s_0000_CatGroomingBrush_HeroShot_450x.jpg?v=1706285135",
+      "title": "Cat Grooming Brush",
+      "price": "£21.00",
+      "image": "https://tangleteezer.com/cdn/shop/files/660x470_Millenial_Pink_Teeth_10ae49f6-b181-4440-8e25-25737e04d3a3.png?v=1707474715&width=800"
+    }
+  ],
+  "cart": [
+    {
+      "title": "The Original Fine & Fragile",
+      "img1": "https://tangleteezer.com/cdn/shop/files/Original_0000s_0000s_0001s_0007_OriginalF_FPinkDawn3_450x.jpg?v=1707839946",
+      "img2": "https://tangleteezer.com/cdn/shop/files/Original_0000s_0000s_0002s_0007_OriginalF_FPinkDawn1_450x.jpg?v=1707839946",
+      "price": "£14.00",
+      "id": 10
+    },
+    {
+      "title": "Detangling Dog Grooming Brush",
+      "img1": "https://tangleteezer.com/cdn/shop/files/Pet_0003s_0000s_0000_PinkYellow_450x.jpg?v=1706285697",
+      "img2": "https://tangleteezer.com/cdn/shop/files/Pet_0003s_0002s_0002_Detanglingyellowpink_450x.jpg?v=1706285697",
+      "price": "£33.00",
+      "id": 12
+    },
+    {
+      "id": 9,
+      "img2": "https://tangleteezer.com/cdn/shop/files/Originalmini_0001s_0004_RainbowtheUnicorn1_450x.jpg?v=1706281537",
+      "img1": "https://tangleteezer.com/cdn/shop/files/Originalmini_0000s_0001s_0003_RainbowtheUnicorn2_450x.jpg?v=1706281537",
+      "title": "The Original Mini",
+      "price": "£15.50",
+      "image": "https://tangleteezer.com/cdn/shop/files/Teeth-_0000s_0000s_0005_Rainbow-the-Unicorn.png?v=1707474715&width=800"
+    }
+  ]
+}
